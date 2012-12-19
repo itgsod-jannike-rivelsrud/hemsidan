@@ -1,0 +1,35 @@
+#container {
+	position: relative;
+	float: left;
+	width: 800px;
+	height: 1600px;
+	margin-left: 250px;
+	border:1px solid black; 
+}
+
+
+
+#header {
+	position: relative;
+	float: left;
+	background-image: url("./images/header.png");
+	width: 800px;
+	height: 200px;
+}
+
+#menu {
+	float: left;
+	position: relative;
+	width: 800px;
+	height: 60px;
+	border: 1px solid black;
+}
+
+/*#bilder {
+	position: relative;
+	float: left;
+	width: 160px;
+	height: 20px;
+	background-image: url("./images/bilder.png");
+
+}*/
