@@ -5,6 +5,7 @@
 	height: 1600px;
 	margin-left: 250px;
 	border:1px solid black; 
+	font-family: arial;
 }
 
 
@@ -25,11 +26,7 @@
 	border: 1px solid black;
 }
 
-/*#bilder {
-	position: relative;
-	float: left;
-	width: 160px;
-	height: 20px;
-	background-image: url("./images/bilder.png");
+h2 {
+	font-family: blackoak std;
 
-}*/
+}
